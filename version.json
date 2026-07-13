@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
+  "versionCode": 6,
   "versionName": "4.9",
   "url": "https://github.com/ByRafaelSystem/iptvnovax/releases/download/app/IPTV_NOVAX.apk",
-  "notes": "Nuevo: boton de Ayuda en inicio y dentro de cada lista. Mejoras varias."
+  "notes": "Codigo Downloader ahora en Ayuda. Recibir activado por defecto."
 }
